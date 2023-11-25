@@ -24,5 +24,3 @@ https://github.com/iamanisaamalia/sistemembedded/assets/147674408/3228409d-9dcf-
 ### d. Flowchart
 ![flow-3d](https://github.com/iamanisaamalia/sistemembedded/assets/147674408/5def1b32-fb02-4d03-8196-cb031d0fffd7)
 
-
-# Tugas
