@@ -9,8 +9,10 @@
      ![langkah-2](https://github.com/iamanisaamalia/sistemembedded/assets/147674408/77990891-a4ad-4bd0-bdbc-dc79ad012823)
   5. Konfigurasikan node Input2. Isikan payload dengan “Expeliarmus”, dan topic berupa “test2”.
   6. Konfigurasikan node fungsi seperti gambar berikut ini.
+
      ![job5bjuga](https://github.com/iamanisaamalia/sistemembedded/assets/147674408/479dc948-0a22-43ce-af94-8f00bb52b988)
-  7. Deploy program dan dokumentasikan hasilnya.
+     
+  8. Deploy program dan dokumentasikan hasilnya.
 ### b. Hasil dan Pembahasan
 function node dimulai dengan membuat flow fungsi output tunggal dan menkonfigurasi node input1 lalu mengisi payload dengan ”HelloWorld” dan topik berupa ”test1”. Deploy program dan dokumentasikan hasilnya. 
 Kemudian buat flow fungsi output berganda yang berfungsi memisahkan pesan lalu konfigurasikan node Input2. Isikan payload dengan “Expeliarmus”, dan topic berupa “test2”. 
