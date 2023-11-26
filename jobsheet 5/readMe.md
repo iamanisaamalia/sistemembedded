@@ -1,4 +1,4 @@
-# JOBSHEET 5 - : PEMROGRAMAN DASAR NODE-RED
+# JOBSHEET 5 - PEMROGRAMAN DASAR NODE-RED
 
 ## Abstrak
 jobsheet ini bertujuan untuk dapat memahami dasar pemrograman pada Node-Red dan dapat membuat application server sederhana menggunakan Node-Red.
