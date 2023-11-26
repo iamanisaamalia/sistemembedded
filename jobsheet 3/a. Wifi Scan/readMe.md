@@ -18,4 +18,4 @@ ESP akan melakukan scanning dan memunculkan hasilnya pada serial monitor jaringa
 https://github.com/iamanisaamalia/sistemembedded/assets/147674408/90166337-83b0-44d6-b078-5228801bddc4
 
 ### d. Flowchart
-![Uploading flow-3a.png…]()
+![flow-3a](https://github.com/iamanisaamalia/sistemembedded/assets/147674408/81de217d-c131-43ed-be9b-f470306e1fe8)
